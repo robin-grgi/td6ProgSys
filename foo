@@ -1,0 +1,28 @@
+total 792
+-rw-r--r-- 1 robin robin 338939 23 mars  09:26 06 TD.pdf
+-rw-r--r-- 1 robin robin    870 25 mars  23:19 compteRendu.md
+-rw-r--r-- 1 robin robin    810 23 mars  23:23 correction.c
+-rwxr-xr-x 1 robin robin  18480 23 mars  23:23 correction.exe
+-rw-r--r-- 1 robin robin    401 25 mars  22:47 ecrivain.c
+-rwxr-xr-x 1 robin robin  18952 25 mars  22:47 ecrivain.exe
+-rw-r--r-- 1 robin robin      0 25 mars  23:20 foo
+-rw-r--r-- 1 robin robin    372 25 mars  22:42 lecteur.c
+-rwxr-xr-x 1 robin robin  17720 25 mars  22:43 lecteur.exe
+-rw-r--r-- 1 robin robin 204850 25 mars  22:01 lsl.png
+-rw-r--r-- 1 robin robin   2107 24 mars   2018 Makefile
+-rw-r--r-- 1 robin robin    666 25 mars  23:10 mypopen.c
+-rwxr-xr-x 1 robin robin  17872 25 mars  23:10 mypopen.exe
+-rw-r--r-- 1 robin robin   1072 23 mars  11:21 redir.c
+-rwxr-xr-x 1 robin robin  19168 23 mars  11:27 redir.exe
+-rw-r--r-- 1 robin robin    275 23 mars  10:07 redir_simple.c
+-rwxr-xr-x 1 robin robin  17432 23 mars  10:07 redir_simple.exe
+-rw-r--r-- 1 robin robin    140 23 mars  20:12 test.c
+-rwxr-xr-x 1 robin robin  17352 23 mars  20:12 test.exe
+-rwxr-xr-x 1 robin robin    531 23 mars  10:32 tst_redir.sh
+-rw-r--r-- 1 robin robin    411 23 mars  11:33 tube_anonyme1.c
+-rwxr-xr-x 1 robin robin  17912 23 mars  11:33 tube_anonyme1.exe
+-rw-r--r-- 1 robin robin    516 23 mars  19:46 tube_anonyme2.c
+-rwxr-xr-x 1 robin robin  18024 23 mars  20:06 tube_anonyme2.exe
+-rw-r--r-- 1 robin robin   1213 23 mars  23:44 tube_anonyme2_multi.c
+-rwxr-xr-x 1 robin robin  18656 23 mars  23:44 tube_anonyme2_multi.exe
+drwxr-xr-x 6 robin robin   4096 27 mars   2017 Win32NamedPipe
